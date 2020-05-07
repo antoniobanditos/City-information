@@ -1,15 +1,12 @@
-package zad1;
-
 import java.awt.event.MouseEvent;
+import java.awt.Color;
 
 import javax.swing.*;
-
 
 import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
 import javafx.scene.Scene;
 import javafx.scene.web.WebView;
-import java.awt.Color;
 
 public class Output {
 	
